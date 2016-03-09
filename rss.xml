@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TrondHauge]]></title>
+        <description><![CDATA[TrondHauge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 22:48:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>undefined4c014004-cbdb-4f48-aabe-3d3db8838a56/index.html</link>
+            <guid isPermaLink="false">4c014004-cbdb-4f48-aabe-3d3db8838a56</guid>
+            <pubDate>Wed, 09 Mar 2016 22:47:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
