@@ -1,0 +1,28 @@
+name: TrondHauge
+favicon: null
+layout_spectrum: 0.7022198864724487
+typography_spectrum: 0.5361740570515394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5083267255686224
+  lightness: 0.6084945935290307
+  saturation: 0.07931913901120424
+  rhythmicContrast: 0.4960575115401298
+purpose: []
