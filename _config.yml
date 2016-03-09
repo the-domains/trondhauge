@@ -1,7 +1,7 @@
 name: TrondHauge
 favicon: null
-layout_spectrum: 0.7022198864724487
-typography_spectrum: 0.5361740570515394
+layout_spectrum: 0.71185
+typography_spectrum: 0.49041
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5083267255686224
-  lightness: 0.6084945935290307
-  saturation: 0.07931913901120424
-  rhythmicContrast: 0.4960575115401298
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
